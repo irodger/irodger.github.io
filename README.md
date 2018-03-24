@@ -1,7 +1,7 @@
 # irodger.github.io
 ## XLSX-JSON parser
 Simple xlsx to json parser. Also support i18next format. Relies on node-xlsx.
-* [Github repo](https://github.com/irodger/xlsx-json-parser)
+* [GitHub](https://github.com/irodger/xlsx-json-parser)
 * [NPM](https://www.npmjs.com/package/xlsx-json-parser)
 ```js
 {
